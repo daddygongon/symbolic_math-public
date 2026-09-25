@@ -1,0 +1,17 @@
+# バックアップ(emacs)や一時ファイルを除外
+- *~
+#- *.tmp
+#- *.bak
+
+# OSの隠しファイルを除外
+- .DS_Store
+- .ipynb_checkpoints/
+#- Thumbs.db
+
+# 特定のディレクトリを除外
+#- drafts/
+#- work/
+
+# 特定の拡張子のファイルを除外
+#- *.org
+- *.key

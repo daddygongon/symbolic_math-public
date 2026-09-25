@@ -1,0 +1,5 @@
+---
+lesson: d1_init
+phase: before
+source_directories:
+- 10_before_materials
