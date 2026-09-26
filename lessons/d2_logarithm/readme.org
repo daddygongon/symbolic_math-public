@@ -1,0 +1,23 @@
+#+OPTIONS: ^:{}
+#+STARTUP: indent nolineimages overview num
+#+TITLE: d2_logarithm 指数・対数
+#+AUTHOR: Shigeto R. Nishitani
+#+LANGUAGE: jp
+#+OPTIONS: H:4 toc:t num:2
+#+SETUPFILE: ../templates/html-theme-readtheorg.setup
+
+[[file:../d1_init/readme.html][前回：キックオフ]]
+
+* 事前資料
+
+- [[file:10_before_materials/first_leaf.ipynb][First Leaf（基本操作）]]
+
+* 当日課題
+- 等号（未公開）
+- 関数（未公開）
+
+- Group works No.1：恒等式，関数，プロット（未公開）
+
+* 終了後資料
+
+課題解答などは授業終了後に公開する．

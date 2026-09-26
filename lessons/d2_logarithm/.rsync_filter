@@ -1,0 +1,5 @@
+# バックアップや一時ファイルを除外
+- *~
+- .DS_Store
+- .ipynb_checkpoints/
+- *.key
